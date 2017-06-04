@@ -7,6 +7,7 @@
 
 ## 目录
 
+- [git提交代码eslint校验配置](https://www.github.com/ChenShenhai/blog/issues/19)
 - [go语言简单web服务](https://www.github.com/ChenShenhai/blog/issues/18)
 - [ES6封装请求GET/POST/form请求方法 ](https://www.github.com/ChenShenhai/blog/issues/16)
 - [koa中间件开发和使用 ](https://www.github.com/ChenShenhai/blog/issues/15)
