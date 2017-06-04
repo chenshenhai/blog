@@ -6,7 +6,7 @@
 - 偶尔涉猎Java Web开发、Android和Hybrid App  （只是偶尔玩玩~(～￣▽￣)～ ）
 
 ## 目录
-
+- [几种js的URL参数操作](https://www.github.com/ChenShenhai/blog/issues/20)
 - [git提交代码eslint校验配置](https://www.github.com/ChenShenhai/blog/issues/19)
 - [go语言简单web服务](https://www.github.com/ChenShenhai/blog/issues/18)
 - [ES6封装请求GET/POST/form请求方法 ](https://www.github.com/ChenShenhai/blog/issues/16)
