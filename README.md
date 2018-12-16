@@ -7,6 +7,7 @@
 - 偶尔涉猎Java Web开发、Android和Hybrid App  （只是偶尔玩玩~(～￣▽￣)～ ）
 
 ## 精华目录
+- [收录前端相关技术组织社区](https://www.github.com/ChenShenhai/blog/issues/31)
 - [基于JSON Schema的HTML解析器](https://www.github.com/ChenShenhai/blog/issues/30)
 - [Node.js 多进程自动守护管理](https://www.github.com/ChenShenhai/blog/issues/29)
 - [Node 9下import/export的丝般顺滑使用](https://www.github.com/ChenShenhai/blog/issues/24)
