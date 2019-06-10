@@ -2,11 +2,12 @@
 - [https://github.com/ChenShenhai/blog/issues](https://github.com/ChenShenhai/blog/issues)
 - 个人主页 [chenshenhai.github.io](https://chenshenhai.github.io)
 - 只是偶尔记录一下，欢迎在issue中交流开发经验
-- 主玩前端开发和node.js开发，目前在玩ES6、vue.js、react.js
-- 钟情PHP快速开发网站，常玩CodeIgnore、WordPress
-- 偶尔涉猎Java Web开发、Android和Hybrid App  （只是偶尔玩玩~(～￣▽￣)～ ）
+- 主玩前端开发和`Node.js`开发，目前在玩`Deno`
+- 偶尔涉猎Java Web开发、PHP开发、Android和Hybrid App  （只是偶尔玩玩~(～￣▽￣)～ ）
 
 ## 精华目录
+- [回炉重学HTML/DOM/Element/Node之间的关系](https://www.github.com/ChenShenhai/blog/issues/34)
+- [从寻呼机到jQuery，一枚jQuery钉子户的独白](https://www.github.com/ChenShenhai/blog/issues/33)
 - [收录前端相关技术组织社区](https://www.github.com/ChenShenhai/blog/issues/31)
 - [基于JSON Schema的HTML解析器](https://www.github.com/ChenShenhai/blog/issues/30)
 - [Node.js 多进程自动守护管理](https://www.github.com/ChenShenhai/blog/issues/29)
