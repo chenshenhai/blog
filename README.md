@@ -6,6 +6,7 @@
 - 偶尔涉猎Java Web开发、PHP开发、Android和Hybrid App  （只是偶尔玩玩~(～￣▽￣)～ ）
 
 ## 精华目录
+- [用TypeScript写了个低配版H5美图工具](https://www.github.com/ChenShenhai/blog/issues/37)
 - [浏览器在同js文件下执行后台线程Worker](https://www.github.com/ChenShenhai/blog/issues/35)
 - [回炉重学HTML/DOM/Element/Node之间的关系](https://www.github.com/ChenShenhai/blog/issues/34)
 - [从寻呼机到jQuery，一枚jQuery钉子户的独白](https://www.github.com/ChenShenhai/blog/issues/33)
