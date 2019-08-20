@@ -42,3 +42,9 @@
 - [vue.js组件化开发（1）单页面应用路由 ](https://www.github.com/ChenShenhai/blog/issues/3)
 - [vue.js组件化开发webpack环境搭建 ](https://www.github.com/ChenShenhai/blog/issues/2)
 - [React.js开发与webpack调试 ](https://www.github.com/ChenShenhai/blog/issues/1)
+
+
+- 本博客内容首发会在公众号显示，如果想第一时间知道博客内容更新，可以 `watch` 本项目 或者 关注我公众号 `大海码` `DeepSeaCode` 
+
+![qrcode_for_gh_959d1c4d729a_258](https://user-images.githubusercontent.com/8216630/43264303-495bf52c-9118-11e8-85cd-4ec6fcc6d066.jpg)
+<br/>
