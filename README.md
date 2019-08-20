@@ -3,7 +3,16 @@
 - 个人主页 [chenshenhai.github.io](https://chenshenhai.github.io)
 - 只是偶尔记录一下，欢迎在issue中交流开发经验
 - 主玩前端开发和`Node.js`开发，目前在玩`Deno`
-- 偶尔涉猎Java Web开发、PHP开发、Android和Hybrid App  （只是偶尔玩玩~(～￣▽￣)～ ）
+- 偶尔涉猎Java Web开发、PHP开发 （只是偶尔玩玩~(～￣▽￣)～ ）
+
+## 我的开源书
+
+- [《Deno进阶开发笔记》](https://github.com/chenshenhai/deno_note)(不定时更新)🌶🌶🌶
+- [《Koa2进阶学习笔记》](https://github.com/chenshenhai/koa2-note)
+- [《Koa.js 设计模式-学习笔记》](https://github.com/chenshenhai/koajs-design-note)
+- [《Rollup.js 实战学习笔记》](https://github.com/chenshenhai/rollupjs-note)
+
+
 
 ## 精华目录
 - [用TypeScript写了个低配版H5美图工具](https://www.github.com/ChenShenhai/blog/issues/37)
