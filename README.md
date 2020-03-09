@@ -2,8 +2,8 @@
 - [https://github.com/chenshenhai/blog/issues](https://github.com/chenshenhai/blog/issues)
 - 个人主页 [chenshenhai.github.io](https://chenshenhai.github.io)
 - 只是偶尔记录一下，欢迎在issue中交流开发经验
-- 主玩前端开发和`Node.js`开发，目前在玩`Deno`
-- 偶尔涉猎Java Web开发、PHP开发 （只是偶尔玩玩~(～￣▽￣)～ ）
+- 主玩前端开发和`Node.js`开发，目前在学习 `Rust`和 玩 `Deno`
+- 偶尔涉猎Java Web开发、PHP开发 （好久没玩，已经忘光了  ~(～￣▽￣)～ ）
 
 ## 我的开源书
 
@@ -16,6 +16,7 @@
 
 ## 精华目录
 
+- [VSCode调试Rust代码 ](https://github.com/chenshenhai/blog/issues/41)
 - [枸杞水背后的2019年业余技术总结](https://www.github.com/chenshenhai/blog/issues/40)
 - [终端控制台的画笔: ANSI转义序列](https://www.github.com/chenshenhai/blog/issues/39)
 - [浅尝 WebAssembly 在Node.js和浏览器的性能对比](https://www.github.com/chenshenhai/blog/issues/38)
