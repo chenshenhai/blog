@@ -25,12 +25,12 @@
 - 2019
   - [终端控制台的画笔: ANSI转义序列](./2019/11/04.md)
   - [浅尝 WebAssembly 在Node.js和浏览器的性能对比](./2019/08/26.md)
+  - [用TypeScript写了个低配版H5美图工具](./2019/07/28.md)
 
 ## 精华目录
 
 
 
-- [用TypeScript写了个低配版H5美图工具](https://www.github.com/chenshenhai/blog/issues/37)
 - [浏览器在同js文件下执行后台线程Worker](https://www.github.com/chenshenhai/blog/issues/35)
 - [回炉重学HTML/DOM/Element/Node之间的关系](https://www.github.com/chenshenhai/blog/issues/34)
 - [从寻呼机到jQuery，一枚jQuery钉子户的独白](https://www.github.com/chenshenhai/blog/issues/33)
