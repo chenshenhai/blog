@@ -17,6 +17,12 @@
 - [《Egg.js 深入浅出学习笔记》](https://github.com/chenshenhai/eggjs-note)(暂时停更)
 
 
+## 博客日志
+
+- 2020
+  - [VSCode调试Rust代码 ](./2020/03/09.md)
+
+
 ## 精华目录
 
 - [VSCode调试Rust代码 ](https://github.com/chenshenhai/blog/issues/41)
