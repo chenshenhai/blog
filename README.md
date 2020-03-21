@@ -1,7 +1,8 @@
 # 大深海的技术博客
 
 - 个人博客 [chenshenhai.com](https://chenshenhai.com)
-- 博客备份 [https://github.com/chenshenhai/blog/issues](https://github.com/chenshenhai/blog/issues)
+- 个人Github [github.com/chenshenhai](https://github.com/chenshenhai)
+- 博客文章备份 [https://github.com/chenshenhai/blog/issues](https://github.com/chenshenhai/blog/issues)
 - 只是偶尔记录一下，欢迎在issue中交流开发经验
 - 主玩前端开发和`Node.js`开发，目前在学习 `Rust`和 玩 `Deno`
 - 偶尔涉猎Java Web开发、PHP开发 （好久没玩，已经忘光了  ~(～￣▽￣)～ ）
@@ -56,5 +57,5 @@
   - 可以 `watch` 本项目
   - 关注我公众号 `大海码` 或 `DeepSeaCode` 
 
-![qrcode_for_gh_959d1c4d729a_258](https://user-images.githubusercontent.com/8216630/43264303-495bf52c-9118-11e8-85cd-4ec6fcc6d066.jpg)
+![qrcode_for_gh_959d1c4d729a_258](./assets/qrcode.jpg)
 
