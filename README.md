@@ -23,12 +23,11 @@
   - [VSCode调试Rust代码 ](./2020/03/09.md)
   - [枸杞水背后的2019年业余技术总结 ](./2020/01/07.md)
 - 2019
+  - [终端控制台的画笔: ANSI转义序列](./2019/11/04.md)
 
 ## 精华目录
 
-- [VSCode调试Rust代码 ](https://github.com/chenshenhai/blog/issues/41)
-- [枸杞水背后的2019年业余技术总结](https://www.github.com/chenshenhai/blog/issues/40)
-- [终端控制台的画笔: ANSI转义序列](https://www.github.com/chenshenhai/blog/issues/39)
+
 - [浅尝 WebAssembly 在Node.js和浏览器的性能对比](https://www.github.com/chenshenhai/blog/issues/38)
 - [用TypeScript写了个低配版H5美图工具](https://www.github.com/chenshenhai/blog/issues/37)
 - [浏览器在同js文件下执行后台线程Worker](https://www.github.com/chenshenhai/blog/issues/35)
