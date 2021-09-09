@@ -4,8 +4,8 @@
 - 个人Github [github.com/chenshenhai](https://github.com/chenshenhai)
 - 博客文章备份 [https://github.com/chenshenhai/blog/issues](https://github.com/chenshenhai/blog/issues)
 - 只是偶尔记录一下，欢迎在issue中交流开发经验
-- 主玩前端开发和`Node.js`开发，目前在学习 `Rust`和 玩 `Deno`
-- 偶尔涉猎Java Web开发、PHP开发 （好久没玩，已经忘光了  ~(～￣▽￣)～ ）
+- 目前在忙着开发 [idraw.js](https://github.com/idrawjs/idraw/),  详情可预览 [@idraw/studio](https://idraw.js.org/studio)
+- 主玩前端开发和`Node.js`开发，在学习 `Rust`和 玩 `Deno`，偶尔涉猎Java Web开发、PHP开发 （好久没玩，已经忘光了  ~(～￣▽￣)～ ）
 
 ## 我的开源书
 
@@ -18,6 +18,8 @@
 
 ## 博客日志精选
 
+- 2021
+  - [休息3个月，基于Canvas写了个简单的前端绘图JavaScript库](./2021/09/09.md)
 - 2020
   - [VSCode调试Rust代码 ](./2020/03/09.md)
   - [枸杞水背后的2019年业余技术总结 ](./2020/01/07.md)
