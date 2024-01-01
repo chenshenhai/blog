@@ -17,7 +17,8 @@
 - [《Egg.js 深入浅出学习笔记》](https://github.com/chenshenhai/eggjs-note)(暂时停更)
 
 ## 博客日志精选
-
+- 2024
+  - [iDraw.js的v0.4重构，大深海的2023年度总结](./2024/01/01.md)
 - 2021
   - [休息3个月，基于Canvas写了个简单的前端绘图JavaScript库](./2021/09/09.md)
 - 2020
